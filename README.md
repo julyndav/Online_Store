@@ -1,3 +1,6 @@
+### Table of Contents:
+[Jupyter Notebook](https://github.com/julyndav/A_B-Testing/blob/main/A_B%20Testing.ipynb)
+
 # A_B-Testing
 
 Develop a model that would analyze subscribers' behavior to recommend one of the company’s newer plans based on customer usage. Report on findings and analysis conclusions.<p>
