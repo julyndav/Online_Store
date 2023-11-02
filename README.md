@@ -37,7 +37,7 @@ After the comparison, will be better equiped to make a decision based on the tes
 <ol>
   <li> Stop the test, consider one of the groups the leader. </li>
   <li>Stop the test, conclude that there is no difference between the groups. </li>
-  <li>Continue the test.
+  <li>Continue the test. </ol>
 <p></p>
 
 Analysis was closed out with determining comparison rates between the two groups and finding the statistical significance of the difference in conversion between the groups using the raw data.  
