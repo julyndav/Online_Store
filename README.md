@@ -22,5 +22,15 @@ Show banners with current offers and sales on the main page. This will boost con
 Add a subscription form to all the main pages. This will help you compile a mailing list<li>
 Launch a promotion that gives users discounts on their birthdays
 
+We'll use frameworks to as a comparison for the hypotheses to determine the best ones. This framework involves:<br><li>
+Reach — how many users will be affected by the update you want to
+introduce<li>
+Impact — how strongly this update will affect the users, their experience, and
+their satisfaction with the product<li>
+Confidence — how sure you are that your product will affect them in this way<li>
+Effort — how much will it cost to test the hypothesis
+
+This will rate our hypotheses on a scale of 1-10. Below is what our comparison looks like using the applied framework.
+
 
 
