@@ -30,7 +30,16 @@ their satisfaction with the product<li>
 Confidence — how sure you are that your product will affect them in this way<li>
 Effort — how much will it cost to test the hypothesis
 
-This will rate our hypotheses on a scale of 1-10. Below is what our comparison looks like using the applied framework.
+This will rate our hypotheses on a scale of 1-10. Below is what our comparison looks like using the applied framework and separating things into two groups.
+![ICE_RICE](https://github.com/julyndav/A_B-Testing/blob/main/images/comparison.png)
 
+After the comparison, will be better equiped to make a decision based on the test results. The possible decisions are:<br>
+<ol>
+  <li> Stop the test, consider one of the groups the leader. </li>
+  <li>Stop the test, conclude that there is no difference between the groups. </li>
+  <li>Continue the test.
+<p></p>
 
+Analysis was closed out with determining comparison rates between the two groups and finding the statistical significance of the difference in conversion between the groups using the raw data.  
 
+Here's a snippet of how the comparison rates faired:
