@@ -40,6 +40,7 @@ After the comparison, will be better equiped to make a decision based on the tes
   <li>Continue the test. </ol>
 <p></p>
 
-Analysis was closed out with determining comparison rates between the two groups and finding the statistical significance of the difference in conversion between the groups using the raw data.  
+Analysis was closed out with determining comparison rates between the two groups and finding the statistical significance of the difference in conversion between the groups using the raw data. Conclusions and insights were including in the closing of the analysis also. 
 
 Here's a snippet of how the comparison rates faired:
+![Comparisongrouprates](https://github.com/julyndav/A_B-Testing/blob/main/images/comprison%20groups.png)
