@@ -7,7 +7,7 @@ which hypothese will be most likely to boost an online store's projected revenue
 
 ### Steps that will be taken in the analysis:
 ●	Utilized Python to aggregate, clean, extract, visualize and explore the company’s data<br>
-●	Prioritize hypothese using two separate framework models and how priotization changes between the two. 
+●	Prioritize hypothese using two separate framework models and how priotization changes between the two.<br>
 ●	Apply A/B testing to the models and determine the best hypothese
 
 The analsys will incorporate cummalitive averages, exploring outliers and looking at conversion rates. 
