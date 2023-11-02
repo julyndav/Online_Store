@@ -11,5 +11,16 @@ which hypothese will be most likely to boost an online store's projected revenue
 ●	Apply A/B testing to the models and determine the best hypothese
 
 The analsys will incorporate cummalitive averages, exploring outliers and looking at conversion rates. 
+Hypothese that will be tested are:<br><li>
+Add two new channels for attracting traffic. This will bring 30% more users<li>
+Launch your own delivery service. This will shorten delivery time<li>
+Add product recommendation blocks to the store's site. This will increase conversion and average purchase size<li>
+Change the category structure. This will increase conversion since users will find the products they want more quickly<li>
+Change the background color on the main page. This will increase user engagement<li>
+Add a customer review page. This will increase the number of orders<li>
+Show banners with current offers and sales on the main page. This will boost conversion<li>
+Add a subscription form to all the main pages. This will help you compile a mailing list<li>
+Launch a promotion that gives users discounts on their birthdays
+
 
 
