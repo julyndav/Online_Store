@@ -1,7 +1,7 @@
 ## Table of Contents:
 [Jupyter Notebook](https://github.com/julyndav/A_B-Testing/blob/main/A_B%20Testing.ipynb)
 
-### Required Project Libraries:
+## Required Project Libraries:
 | Library |Purpose |
 | --- | --- |
 | Pandas | Main library for working with data |
@@ -11,15 +11,24 @@
 
 
 
-### A_B-Testing Project overview:
+## A_B-Testing Project overview:
 From a supplied dataset, work with provided hypotheses from a marketing department using the concepts of Reach, Impact, Confidence and Effort to determine
 which hypothese will be most likely to boost an online store's projected revenue. 
 
-### Steps that will be taken in the analysis:
-●	Utilized Python to aggregate, clean, extract, visualize and explore the company’s data<br>
-●	Prioritize hypothese using two separate framework models and how priotization changes between the two.<br>
-●	Apply A/B testing to the models and determine the best hypothese
-
+## Analysis Steps:
+| Step |Description |
+| --- | --- |
+| 1 | Create project description |
+| 2 | Import libraries |
+| 3 | Upload and analyize data |
+| 4 | Data cleaning and preparation |
+| 5 | Prioritize hypothese using two framework models |
+| 6 | Determining how prioritzation changes between the two models |
+| 7 | Apply A/B Testing to the models |
+| 8 | Determine the best hypothese |
+| 9 | Project Conclusion(s) |
+<br></br>
+## Brief Analysis Overview:
 The analsys will incorporate cummalitive averages, exploring outliers and looking at conversion rates. 
 Hypothese that will be tested are:<br><li>
 Add two new channels for attracting traffic. This will bring 30% more users<li>
@@ -56,7 +65,7 @@ Here's a snippet of how the comparison rates faired:
 ![Comparisongrouprates](https://github.com/julyndav/A_B-Testing/blob/main/images/comprison%20groups.png)
 
 
-### Project Conclusion:
+## Project Conclusion:
 Conclusion for A/B Analysis:
 Although our general conclusions from the test didn't change, using the raw vs filtered data examples demonstrates clearly how anomalies can affect A/B test results. All it takes is 2-5 huge orders to skew the comparsion between the groups.
 Between the raw and filtered, Group B showed gains on Group A except were the order size was concerend. Removing the abnormally large orders, which caused the massive spike in the plot for 'Average Order size' for Group B, negated Group B's gain that it had on Group A in that category.
