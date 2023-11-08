@@ -8,6 +8,7 @@
 | Numpy | Used for numerical operations on large quantities of data |
 | Seaborn | Python visualization library based on matplotlib |
 | Matplotlib | Python visualization library |
+
 <br></br>
 
 ## A_B-Testing Project overview:
