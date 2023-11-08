@@ -1,7 +1,17 @@
-### Table of Contents:
+## Table of Contents:
 [Jupyter Notebook](https://github.com/julyndav/A_B-Testing/blob/main/A_B%20Testing.ipynb)
 
-# A_B-Testing Project overview:
+### Required Project Libraries:
+| Library |Purpose |
+| --- | --- |
+| Pandas | Main library for working with data |
+| Numpy | Used for numerical operations on large quantities of data |
+| Seaborn | Python visualization library based on matplotlib |
+| Matplotlib | Python visualization library |
+
+
+
+### A_B-Testing Project overview:
 From a supplied dataset, work with provided hypotheses from a marketing department using the concepts of Reach, Impact, Confidence and Effort to determine
 which hypothese will be most likely to boost an online store's projected revenue. 
 
@@ -44,3 +54,11 @@ Analysis was closed out with determining comparison rates between the two groups
 
 Here's a snippet of how the comparison rates faired:
 ![Comparisongrouprates](https://github.com/julyndav/A_B-Testing/blob/main/images/comprison%20groups.png)
+
+
+### Project Conclusion:
+Conclusion for A/B Analysis:
+Although our general conclusions from the test didn't change, using the raw vs filtered data examples demonstrates clearly how anomalies can affect A/B test results. All it takes is 2-5 huge orders to skew the comparsion between the groups.
+Between the raw and filtered, Group B showed gains on Group A except were the order size was concerend. Removing the abnormally large orders, which caused the massive spike in the plot for 'Average Order size' for Group B, negated Group B's gain that it had on Group A in that category.
+
+Based on the overall results, I would suggest ending the test and going with Group B. Despite Group B's anomalies, they still garned the large orders from a few visitors which boosted the Groups revenue. It's obvious that the tested hypotheses of numbers 7, 0 and 8 really resonated with Group B
