@@ -8,12 +8,12 @@
 | Numpy | Used for numerical operations on large quantities of data |
 | Seaborn | Python visualization library based on matplotlib |
 | Matplotlib | Python visualization library |
-
-
+<br></br>
 
 ## A_B-Testing Project overview:
 From a supplied dataset, work with provided hypotheses from a marketing department using the concepts of Reach, Impact, Confidence and Effort to determine
 which hypothese will be most likely to boost an online store's projected revenue. 
+<br></br>
 
 ## Analysis Steps:
 | Step |Description |
@@ -27,6 +27,7 @@ which hypothese will be most likely to boost an online store's projected revenue
 | 7 | Apply A/B Testing to the models |
 | 8 | Determine the best hypothese |
 | 9 | Project Conclusion(s) |
+
 <br></br>
 ## Brief Analysis Overview:
 The analsys will incorporate cummalitive averages, exploring outliers and looking at conversion rates. 
